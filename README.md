@@ -6,6 +6,7 @@ python rename_by_timestamp.py /path/to/folder
 
 # With a specific timezone 
 python rename_by_timestamp.py /path/to/folder --timezone UTC
+
 python rename_by_timestamp.py /path/to/folder --timezone Europe/Oslo
 
 # Preview without touching files
